@@ -1,0 +1,4 @@
+declare var INT, pol POLYNOMIAL;
+set var = 10+2, pol = [[5x0-10x1]];
+
+<<< comment >>>
